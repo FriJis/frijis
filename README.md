@@ -1,8 +1,6 @@
+# Обо мне
 ![Header](https://github.com/FriJis/frijis/blob/master/assets/header.png)
-
-# About me
-
-## Languages and tools
+## Технологии и инструменты
 ### Front-End
 
 
@@ -33,16 +31,16 @@
 
 ![Laravel](https://img.shields.io/static/v1?label=&message=Laravel&color=grey&style=for-the-badge&logo=laravel)
 
-### DB
+### Базы данных
 ![mysql](https://img.shields.io/static/v1?label=&message=mysql&color=grey&style=for-the-badge&logo=MySql)
 ![mongodb](https://img.shields.io/static/v1?label=&message=mongodb&color=grey&style=for-the-badge&logo=mongodb)
 
-### Langs
+### ЯП
 ![JS](https://img.shields.io/static/v1?label=&message=JS&color=grey&style=for-the-badge&logo=JavaScript)
 ![TS](https://img.shields.io/static/v1?label=&message=TS&color=grey&style=for-the-badge&logo=TypeScript)
 ![PHP](https://img.shields.io/static/v1?label=&message=PHP&color=grey&style=for-the-badge&logo=PHP)
 
-### Instruments
+### Инструменты
 ![vscode](https://img.shields.io/static/v1?label=&message=vscode&color=grey&style=for-the-badge&logo=visual-studio-code)
 ![ssh](https://img.shields.io/static/v1?label=&message=ssh&color=grey&style=for-the-badge&logo=ssh)
 ![Npm](https://img.shields.io/static/v1?label=&message=Npm&color=grey&style=for-the-badge&logo=Npm)
