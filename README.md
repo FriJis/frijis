@@ -6,6 +6,9 @@
 <!-- ## Карточки
 ![](https://camo.githubusercontent.com/6c5a58b78131c8ec145f09f7c172128e41a0ffb886bc13da230b2d69d998eb80/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f70696e2f3f757365726e616d653d616e7572616768617a7261267265706f3d6769746875622d726561646d652d73746174732663616368655f7365636f6e64733d3836343030267468656d653d767565) -->
 ## Технологии и инструменты
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=frijis&layout=compact&theme=vue-dark)](https://github.com/frijis)
+
 ### Front-End
 
 
