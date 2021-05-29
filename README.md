@@ -1,6 +1,4 @@
 # Обо мне
-![Header](https://github.com/FriJis/frijis/blob/master/assets/header.png)
-
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=frijis&count_private=true&show_icons=true&theme=vue-dark)](https://github.com/frijis)
 
 <!-- ## Карточки
